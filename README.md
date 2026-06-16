@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/miradas-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Miradas de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/miradas-de-fuego/) |
+| **Get License** | [Request Licensing for Miradas de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/miradas-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos me llaman en la oscuridad
+> Baby, you know, no es casualidad
+> Esa mirada de fuego me quiere quemar
+> Y yo estoy listo para dejarme llevar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
