@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/miradas-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Miradas de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/miradas-de-fuego/) |
+| **Get License** | [Secure Licensing Rights for Miradas de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/miradas-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `409c3b9fb20e0cfeb272951e2ef2b9277c94829af2d2d2b298083da72b5af744` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

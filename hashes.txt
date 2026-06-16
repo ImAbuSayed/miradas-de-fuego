@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Miradas de fuego
+
+This log tracks the cryptographic history and versioning for the song **Miradas de fuego** (miradas-de-fuego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:29:20.880524 | `v1` | `409c3b9fb20e0cfeb272951e2ef2b9277c94829af2d2d2b298083da72b5af744` | `e07d64cf616e228c16163e884add6101b299629e4a60b24f227bb573450bca71` | `2026-06-16_miradas-de-fuego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
